@@ -1,6 +1,4 @@
-# tp1-croissance-decouverteL3
-TP1 - Développement collaboratif et Open Science
-# TP1 - Développement collaboratif et Open Science
+ # TP1 - Développement collaboratif et Open Science
 
 ## 1. Objectif du projet
 
@@ -10,8 +8,8 @@ Il vise également à organiser un projet scientifique de manière reproductible
 
 ## 2. Auteurs
 
-- Étudiant A : zellal nour elhouda
-- Étudiant B : mokhtar benali imene nour elhouda 
+- Étudiant A : Zellal Nour El Houda
+- Étudiant B : Mokhtar Benali Imene Nour El Houda
 
 ## 3. Description du projet
 
